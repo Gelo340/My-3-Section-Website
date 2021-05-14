@@ -1,0 +1,26 @@
+#header {
+  .logo {
+    height: 50px;
+    width: 50px;
+  }
+  .container {
+    width: 1232px;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 48px 0;
+  }
+  .nav > * {
+    display: flex;
+    li {
+      margin-right: 32px;
+    }
+    align-items: center;
+    font-family: "Scope One", serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  i {
+    color: #3699e8;
+  }
+}
